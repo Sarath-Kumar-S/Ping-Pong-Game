@@ -1,5 +1,5 @@
 # Ping Pong Game Using JavaScript
-The Ping Pong Game, created using JavaScript, and The HTML5 canvas.
+The Ping Pong Game, created using JavaScript, and The HTML5 canvas. <a href="https://ppgame.netlify.app/">Website</a>
 
 ## Demo
 
